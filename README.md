@@ -4,20 +4,20 @@ This is a simple PC Builder application that allows users to create a PC build a
 
 ## Website URL
 
-https://pc-builder-assignment.vercel.app/
+https://pc-builder-lovat.vercel.app/
 
 ## Home Page
 
-https://pc-builder-assignment.vercel.app/
+https://pc-builder-lovat.vercel.app/
 
 ## Build Page
 
-https://pc-builder-assignment.vercel.app/pc-builder (Protected Route)
+https://pc-builder-lovat.vercel.app/pc-builder (Protected Route)
 
 ## Categories Page
 
-https://pc-builder-assignment.vercel.app/categories/monitor
+https://pc-builder-lovat.vercel.app/categories/monitor
 
 ## Login Page
 
-https://pc-builder-assignment.vercel.app/api/auth/signin?callbackUrl=https%3A%2F%2Fpc-builder-assignment.vercel.app%2F
+https://pc-builder-lovat.vercel.app/api/auth/signin?callbackUrl=https%3A%2F%2Fpc-builder-assignment.vercel.app%2F
