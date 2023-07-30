@@ -53,7 +53,7 @@ function Footer() {
                 className="cursor-pointer"
                 alt="linkedin"
                 onClick={() => {
-                  router.push("https://www.linkedin.com/in/hazrat-ali");
+                  router.push("https://www.linkedin.com/in/hazratali9/");
                 }}
               />
             </div>
@@ -65,7 +65,7 @@ function Footer() {
                 objectFit="contain"
                 className="cursor-pointer"
                 alt="github"
-                onClick={() => router.push("https://github.com/hazratali")}
+                onClick={() => router.push("https://github.com/Hazrat-Ali9")}
               />
             </div>
           </div>
