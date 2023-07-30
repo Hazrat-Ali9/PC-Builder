@@ -8,11 +8,10 @@ export const authOptions = {
       clientId: process.env.GITHUB_ID,
       clientSecret: process.env.GITHUB_SECRET,
     }),
-    // ...add more providers here
   ],
-  // pages: {
-  //   signIn: "/api/auth/signin",
-  // },
+  pages: {
+    signIn: "https://pc-builder-lovat.vercel.app/api/auth/signin",
+  },
 };
 
 export default NextAuth(authOptions);
