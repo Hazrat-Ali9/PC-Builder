@@ -1,3 +1,7 @@
+# ✈ Hazrat Ali
+
+# 🚁 Programmer || Software Engineering
+
 ### Simple PC Builder Application 
 
 This is a simple PC Builder application that allows users to create a PC build and save. there has some products that can be added to the build. there is also some categories.
