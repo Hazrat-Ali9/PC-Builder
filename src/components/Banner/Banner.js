@@ -1,6 +1,6 @@
 import Image from "next/image";
 import { ShoppingBagIcon } from "@heroicons/react/24/outline";
-
+// Banner 
 function Banner() {
   const scrollHandler = () => {
     window.scrollTo({
