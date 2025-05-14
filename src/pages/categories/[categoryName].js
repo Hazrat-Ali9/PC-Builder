@@ -9,6 +9,7 @@ const Category = ({ products, categoryName }) => {
     </div>
   );
 };
+// Catagory name
 
 export default Category;
 
