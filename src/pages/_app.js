@@ -3,7 +3,7 @@ import { wrapper } from "@/redux/app/store";
 import { SessionProvider } from "next-auth/react";
 import { Provider } from "react-redux";
 import "@/styles/globals.css";
-
+// apps js
 export default function App({
   Component,
   pageProps: { session, ...pageProps },
