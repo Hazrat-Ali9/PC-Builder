@@ -3,7 +3,7 @@ import ProductFeed from "@/components/Product/ProductFeed";
 import { wrapper } from "@/redux/app/store";
 import categoriesApi from "@/redux/features/categories/categoriesApi";
 import productApi from "@/redux/features/product/productApi";
-
+// Index js
 export default function Home({ products, categories }) {
   return (
     <>
