@@ -2,7 +2,7 @@ import { configureStore } from "@reduxjs/toolkit";
 import { createWrapper } from "next-redux-wrapper";
 import { apiSlice } from "../features/api/apiSlice";
 import pcbuildReducer from "../features/pcbuild/pcbuildSlice";
-
+// Store js
 export const store = configureStore({
   reducer: {
     [apiSlice.reducerPath]: apiSlice.reducer,
