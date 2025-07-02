@@ -1,5 +1,5 @@
 import { createSlice } from "@reduxjs/toolkit";
-
+// Pc Build
 const initialState = {
   processor: {
     id: 0,
