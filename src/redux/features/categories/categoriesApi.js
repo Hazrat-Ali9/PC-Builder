@@ -1,5 +1,6 @@
-import { apiSlice } from "../api/apiSlice";
 // Catagoris api
+import { apiSlice } from "../api/apiSlice";
+
 const categoriesApi = apiSlice.injectEndpoints({
   endpoints: (builder) => ({
     getCategories: builder.query({
